@@ -6,11 +6,14 @@ This is, because incorporating these models into a productive applicate can be a
 
 ## Databases
 
+Use docker images to deploy databases
+
  - SQLite
- - MySQL
- - MongoDB
+ - MySQL ()
+ - MongoDB  ```docker install mongo``` 
  - LevelDB
  - PostgreSQL
+ - CouchDB tba
 
 ## Results
 
